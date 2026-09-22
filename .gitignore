@@ -22,6 +22,7 @@
 
 # misc
 .DS_Store
+temp_auto_push.bat
 *.pem
 
 # debug
@@ -47,3 +48,5 @@ backend/uploads/
 /uploads/
 *.class
 .idea/
+.gitignore
+branch_structure.json
