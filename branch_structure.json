@@ -1,0 +1,33 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "ai-fix/39170b41-11-all-page-content-should-be",
+    "ai-fix/72f9746c-4-similar-issues-failed-network-request",
+    "ai-fix/79f2a258-3-similar-issues-failed-network-request",
+    "ai-fix/b637fe04-aria-hidden-element-must-not-be",
+    "ai-fix/c2176701-aria-hidden-element-must-not-be",
+    "ai-fix/c9a26d62-aria-hidden-element-must-not-be",
+    "ai-fix/e7060a81-11-all-page-content-should-be",
+    "master"
+  ],
+  "parent": {
+    "ai-fix/39170b41-11-all-page-content-should-be": "master",
+    "ai-fix/72f9746c-4-similar-issues-failed-network-request": "master",
+    "ai-fix/79f2a258-3-similar-issues-failed-network-request": "master",
+    "ai-fix/b637fe04-aria-hidden-element-must-not-be": "master",
+    "ai-fix/c2176701-aria-hidden-element-must-not-be": "master",
+    "ai-fix/c9a26d62-aria-hidden-element-must-not-be": "master",
+    "ai-fix/e7060a81-11-all-page-content-should-be": "master",
+    "master": null
+  },
+  "order": [
+    "master",
+    "ai-fix/39170b41-11-all-page-content-should-be",
+    "ai-fix/72f9746c-4-similar-issues-failed-network-request",
+    "ai-fix/79f2a258-3-similar-issues-failed-network-request",
+    "ai-fix/b637fe04-aria-hidden-element-must-not-be",
+    "ai-fix/c2176701-aria-hidden-element-must-not-be",
+    "ai-fix/c9a26d62-aria-hidden-element-must-not-be",
+    "ai-fix/e7060a81-11-all-page-content-should-be"
+  ]
+}
